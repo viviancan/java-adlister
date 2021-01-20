@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 
-@WebServlet(name = "DadJokeServlet", urlPatterns = "/dadjoke")
+@WebServlet(name = "DadJokeServletJupiter", urlPatterns = "/dadjoke")
 public class DadJokeServlet extends HttpServlet {
 
     @Override

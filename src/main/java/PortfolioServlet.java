@@ -6,7 +6,7 @@ import java.io.IOException;
 import java.io.PrintWriter;
 
 
-@WebServlet(name = "PortfolioServlet", urlPatterns = "/portfolio")
+@WebServlet(name = "PortfolioServletJupiter", urlPatterns = "/portfolio")
 public class PortfolioServlet extends HttpServlet{
 
     @Override
